@@ -1,0 +1,2 @@
+# mig_intranetConsultasME_weblogic
+fuentes weblogic
